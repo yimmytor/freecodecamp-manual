@@ -4,4 +4,4 @@ Web desarrollada como práctica de diseño de interfaz web para la certificació
 
 ## Live Demo
 
-[Manual Técnico](https://landing-e3651.web.app/)
+[Manual Técnico](https://manual-98e44.firebaseapp.com/)
